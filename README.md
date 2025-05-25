@@ -23,6 +23,22 @@ SwiftBus is a web-based bus reservation system using Spring MVC, Hibernate, MySQ
 - Eclipse IDE
 
 ---
+## 🖼️ Screenshots
+
+### 🔐 Main Page
+![Main Page](screenshots/main-page.png)
+
+### 🔐 Admin Login Page
+![Admin Login Page](screenshots/admin-login.png)
+
+### 🏠 Bus List
+![Bus List](screenshots/bus-list.png)
+
+### 🔍 Bus Search
+![Bus Search](screenshots/search-for-bus.png)
+
+### 🎫 Seat Selection
+![Seat Selection Page](screenshots/seat-selection.png)
 
 ## 🚀 How to Run
 
